@@ -5,7 +5,7 @@ import axios from "axios";
 // ==============================
 
 const api = axios.create({
-  baseURL: "https://webflow-file-management.onrender.com/api/",
+  baseURL: "https://webflow-file-management.onrender.com/api",
 });
 
 // ==============================
